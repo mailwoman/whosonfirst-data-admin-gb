@@ -64,7 +64,6 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        404430153,
         85633159,
         404227471,
         1175612707,
@@ -85,11 +84,10 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698797,
-            "localadmin_id":404430153,
             "locality_id":1175612707,
+            "macrocounty_id":1880762095,
             "macroregion_id":404227471,
-            "neighbourhood_id":1126071791,
-            "region_id":1360698707
+            "neighbourhood_id":1126071791
         }
     ],
     "wof:id":1126071791,

@@ -49,7 +49,6 @@
     "wof:belongsto":[
         1880762025,
         102191581,
-        404432629,
         85633159,
         404227471,
         1360698823
@@ -67,16 +66,15 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698823,
-            "localadmin_id":404432629,
             "locality_id":1126042685,
-            "macroregion_id":404227471,
-            "region_id":1360698683
+            "macrocounty_id":1880762025,
+            "macroregion_id":404227471
         }
     ],
     "wof:id":1126042685,
     "wof:lastmodified":1566634526,
     "wof:name":"Braehead",
-    "wof:parent_id":404432629,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

@@ -49,7 +49,6 @@
     "wof:belongsto":[
         1880762041,
         102191581,
-        404430343,
         85633159,
         404227471,
         1360699021
@@ -67,16 +66,15 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699021,
-            "localadmin_id":404430343,
             "locality_id":1125906289,
-            "macroregion_id":404227471,
-            "region_id":1360698697
+            "macrocounty_id":1880762041,
+            "macroregion_id":404227471
         }
     ],
     "wof:id":1125906289,
     "wof:lastmodified":1566635301,
     "wof:name":"Fisherton",
-    "wof:parent_id":404430343,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

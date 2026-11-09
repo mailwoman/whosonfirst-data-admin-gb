@@ -35,7 +35,6 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        404429199,
         85633159
     ],
     "wof:breaches":[],
@@ -48,7 +47,6 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "localadmin_id":404429199,
             "locality_id":1326558739,
             "region_id":-1
         }
@@ -56,7 +54,7 @@
     "wof:id":1326558739,
     "wof:lastmodified":1559950859,
     "wof:name":"St. Kilda Village",
-    "wof:parent_id":404429199,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

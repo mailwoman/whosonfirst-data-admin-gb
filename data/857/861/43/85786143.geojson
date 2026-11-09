@@ -80,7 +80,6 @@
     "wd:wordcount":195,
     "wof:belongsto":[
         102191581,
-        404451795,
         85633159,
         404227471,
         1360698835,
@@ -102,11 +101,10 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698835,
-            "localadmin_id":404451795,
             "locality_id":-1,
+            "macrocounty_id":1880762097,
             "macroregion_id":404227471,
-            "neighbourhood_id":85786143,
-            "region_id":1360698701
+            "neighbourhood_id":85786143
         }
     ],
     "wof:id":85786143,

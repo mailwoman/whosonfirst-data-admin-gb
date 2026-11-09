@@ -52,7 +52,6 @@
     "wof:belongsto":[
         1880762101,
         102191581,
-        404444245,
         85633159,
         404227471,
         1360699039
@@ -70,16 +69,15 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360699039,
-            "localadmin_id":404444245,
             "locality_id":1125791171,
-            "macroregion_id":404227471,
-            "region_id":1360698719
+            "macrocounty_id":1880762101,
+            "macroregion_id":404227471
         }
     ],
     "wof:id":1125791171,
     "wof:lastmodified":1566636229,
     "wof:name":"Mabie",
-    "wof:parent_id":404444245,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],

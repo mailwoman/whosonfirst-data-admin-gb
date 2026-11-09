@@ -46,10 +46,9 @@
         {
             "continent_id":102191581,
             "country_id":85633159,
-            "county_id":1360698887,
             "locality_id":1360756083,
-            "macroregion_id":404227469,
-            "region_id":1360698599
+            "macrocounty_id":1880761993,
+            "macroregion_id":404227469
         }
     ],
     "wof:id":1360756083,
