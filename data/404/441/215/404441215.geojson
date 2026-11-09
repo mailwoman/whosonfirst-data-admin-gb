@@ -107,11 +107,11 @@
     "qs:type":"Non-Civil Parish or Community",
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        1360698613,
+        1880762019,
         102191581,
         85633159,
         404227469,
-        1360699043
+        1880762691
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -133,7 +133,7 @@
     "wof:id":404441215,
     "wof:lastmodified":1695878005,
     "wof:name":"Kidderminster",
-    "wof:parent_id":1360699043,
+    "wof:parent_id":1880762691,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-gb",
     "wof:superseded_by":[],
