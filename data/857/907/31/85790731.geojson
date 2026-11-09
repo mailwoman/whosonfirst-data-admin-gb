@@ -106,11 +106,10 @@
     "wd:wordcount": 385,
     "wof:belongsto": [
       102191581,
-      404435713,
       85633159,
       404227471,
       1360698949,
-      1360698703
+      1880762099
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -131,11 +130,10 @@
         "continent_id": 102191581,
         "country_id": 85633159,
         "county_id": 1360698949,
-        "localadmin_id": 404435713,
         "locality_id": -1,
+        "macrocounty_id": 1880762099,
         "macroregion_id": 404227471,
-        "neighbourhood_id": 85790731,
-        "region_id": 1360698703
+        "neighbourhood_id": 85790731
       }
     ],
     "wof:id": 85790731,
